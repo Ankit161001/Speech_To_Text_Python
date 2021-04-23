@@ -9,8 +9,8 @@ Make sure to check the `add python to PATH` button during installation.
 After installing python open command prompt and type `pip install SpeechRecognition`. This command will install the required module.
 <br>
 <br>
-### Note1: be sure to input the perfect directory/location of the audio file to be converted into text.
+**Note1: be sure to input the perfect directory/location of the audio file to be converted into text.** 
 <br>
-### Note2: the audio file must be in `.wav` format.
+**Note2: the audio file must be in .wav format.**
 <br>
 I have also included the audio file that I converted into text. Feel free to use it for testing.
